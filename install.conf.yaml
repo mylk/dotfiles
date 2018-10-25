@@ -1,0 +1,17 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+
+- link:
+    ~/.dotfiles: ''
+    ~/.vimrc: ~
+    ~/.gitconfig: ~
+    ~/.bash_logout: ~
+    ~/.bash_profile: ~
+    ~/.bashrc: ~
+    ~/.xinitrc: ~
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]
