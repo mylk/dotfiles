@@ -1,0 +1,7 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/nvme0n1p2
+UUID=fe9792c6-10ba-48bb-8175-abce65154be4	/         	ext4      	rw,relatime,data=ordered	0 1
+
