@@ -96,6 +96,8 @@ bar {
         active_workspace   #333333 #222222 #ffffff
         inactive_workspace #333333 #222222 #888888
     }
+    bindsym button4 nop
+    bindsym button5 nop
 }
 
 # lock the screen
