@@ -15,5 +15,6 @@ complete -cf man
 
 source /usr/share/git/completion/git-completion.bash
 
-export PATH=$PATH:/home/mylk/.tools/
+export PATH=$PATH:/home/mylk/projects/tools/
+export PATH="$HOME/.symfony/bin:$PATH"
 export VISUAL="vim"
