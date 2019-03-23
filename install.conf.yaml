@@ -17,6 +17,9 @@
     ~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml: ~
     ~/.config/terminator: ~
     ~/.config/liferea/feedlist.opml: ~
+    ~/.local/share/gedit: ~
+    ~/.mplayer/config: ~
+    /etc/hosts: ~
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
