@@ -123,8 +123,8 @@ bindsym $mod+Print exec scrot -u -e 'mv $f /tmp/ && gimp /tmp/$f'
 # change the brightness
 # this is the script and the permissions change needed:
 # https://stackoverflow.com/a/39230095
-bindsym $mod+Ctrl+Prior exec /home/mylk/.tools/backlight.sh -inc 250
-bindsym $mod+Ctrl+Next exec /home/mylk/.tools/backlight.sh -dec 250
+bindsym $mod+Ctrl+Prior exec /home/mylk/projects/tools/backlight.sh -inc 250
+bindsym $mod+Ctrl+Next exec /home/mylk/projects/tools/backlight.sh -dec 250
 bindsym $mod+Ctrl+End exec echo 3735 | tee /sys/class/backlight/intel_backlight/brightness
 
 # enable numlock by default
