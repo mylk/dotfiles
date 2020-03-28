@@ -7,6 +7,9 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color'
+alias mocp='mocp -T /usr/share/moc/themes/hacker_theme'
+alias cal='cal -m'
+alias date='date "+%Y-%m-%d %H:%M:%S"'
 
 PS1='[\u@\h \W]\$ '
 
