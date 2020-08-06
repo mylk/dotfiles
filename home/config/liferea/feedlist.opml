@@ -8,10 +8,9 @@
       <outline type="rule" text="Read status" rule="unread" value="" additive="true"/>
     </outline>
     <outline title="News" text="News" description="News" type="folder" id="kpobeha" sortColumn="time" collapsed="true">
-      <outline title="&#x3C0;&#x3B9;&#x3C4;&#x3C3;&#x3B9;&#x3C1;&#x3AF;&#x3BA;&#x3BF;&#x3C2;" text="&#x3C0;&#x3B9;&#x3C4;&#x3C3;&#x3B9;&#x3C1;&#x3AF;&#x3BA;&#x3BF;&#x3C2;" description="&#x3C0;&#x3B9;&#x3C4;&#x3C3;&#x3B9;&#x3C1;&#x3AF;&#x3BA;&#x3BF;&#x3C2;" type="rss" id="xuudhmp" sortColumn="time" xmlUrl="http://feeds.feedburner.com/pitsirikos/uPfN" htmlUrl="https://pitsirikos.net" updateInterval="-1" markAsRead="true" collapsed="true"/>
-      <outline title="Reddit - Greece" text="Reddit - Greece" description="Reddit - Greece" type="atom" id="bqgvpch" sortColumn="time" xmlUrl="https://www.reddit.com/r/greece/new/.rss" htmlUrl="https://www.reddit.com/r/greece/new/" updateInterval="-1" collapsed="true"/>
+      <outline title="Reddit - Koina" text="Reddit - Koina" description="Reddit - Koina" type="atom" id="uyfrdxp" sortColumn="time" xmlUrl="https://www.reddit.com/r/koina/new/.rss" htmlUrl="https://www.reddit.com/r/koina/new/" updateInterval="-1" collapsed="true"/>
       <outline title="Reddit - KriAnekdota" text="Reddit - KriAnekdota" description="Reddit - KriAnekdota" type="atom" id="skuuwnc" sortColumn="time" xmlUrl="https://www.reddit.com/r/KriAnekdota/new/.rss" htmlUrl="https://www.reddit.com/r/KriAnekdota/new/" updateInterval="-1" collapsed="true"/>
-      <outline title="Reddit - ShitGreeceSays" text="Reddit - ShitGreeceSays" description="Reddit - ShitGreeceSays" type="atom" id="bndbqsl" sortColumn="time" xmlUrl="https://www.reddit.com/r/ShitGreeceSays/new/.rss" htmlUrl="https://www.reddit.com/r/ShitGreeceSays/new/" updateInterval="-1" collapsed="true"/>
+      <outline title="Reddit - Greece" text="Reddit - Greece" description="Reddit - Greece" type="atom" id="bqgvpch" sortColumn="time" xmlUrl="https://www.reddit.com/r/greece/new/.rss" htmlUrl="https://www.reddit.com/r/greece/new/" updateInterval="-1" markAsRead="true" collapsed="true"/>
       <outline title="Ojah" text="Ojah" description="Ojah" type="rss" id="pokedwe" sortColumn="time" xmlUrl="http://ojah.io/rss/" htmlUrl="http://ojah.io/rss/" updateInterval="-1" collapsed="true"/>
       <outline title="Radical I.T." text="Radical I.T." description="Radical I.T." type="rss" id="wierjcu" sortColumn="time" xmlUrl="https://www.radicalit.gr/feed/" htmlUrl="https://www.radicalit.gr" updateInterval="-1" collapsed="true"/>
     </outline>
