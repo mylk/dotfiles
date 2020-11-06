@@ -4,7 +4,7 @@
     <title>Liferea Feed List Export</title>
   </head>
   <body>
-    <outline title="Unread" text="Unread" description="Unread" type="vfolder" id="yvqyxuv" sortColumn="time" matchType="all" collapsed="true">
+    <outline title="Unread" text="Unread" description="Unread" type="vfolder" id="yvqyxuv" sortColumn="time" sortReversed="false" matchType="all" collapsed="true">
       <outline type="rule" text="Read status" rule="unread" value="" additive="true"/>
     </outline>
     <outline title="News" text="News" description="News" type="folder" id="kpobeha" sortColumn="time" collapsed="true">
@@ -14,7 +14,7 @@
       <outline title="Ojah" text="Ojah" description="Ojah" type="rss" id="pokedwe" sortColumn="time" xmlUrl="http://ojah.io/rss/" htmlUrl="http://ojah.io/rss/" updateInterval="-1" collapsed="true"/>
       <outline title="Radical I.T." text="Radical I.T." description="Radical I.T." type="rss" id="wierjcu" sortColumn="time" xmlUrl="https://www.radicalit.gr/feed/" htmlUrl="https://www.radicalit.gr" updateInterval="-1" collapsed="true"/>
     </outline>
-    <outline title="Markets" text="Markets" description="Markets" type="folder" id="pntkvty" sortColumn="time" collapsed="true">
+    <outline title="Markets" text="Markets" description="Markets" type="folder" id="pntkvty" sortColumn="time" sortReversed="false" expanded="true">
       <outline title="CNBC - Travel" text="CNBC - Travel" description="CNBC - Travel" type="rss" id="lbccweb" sortColumn="time" xmlUrl="https://www.cnbc.com/id/10000739/device/rss/rss.html" htmlUrl="https://www.cnbc.com/travel/" updateInterval="10" collapsed="true"/>
       <outline title="CNBC - Retail" text="CNBC - Retail" description="CNBC - Retail" type="rss" id="dvvnyxa" sortColumn="time" xmlUrl="https://www.cnbc.com/id/10000116/device/rss/rss.html" htmlUrl="https://www.cnbc.com/retail/" updateInterval="10" collapsed="true"/>
       <outline title="CNBC - Health and Science" text="CNBC - Health and Science" description="CNBC - Health and Science" type="rss" id="hrcrvjw" sortColumn="time" xmlUrl="https://www.cnbc.com/id/10000108/device/rss/rss.html" htmlUrl="https://www.cnbc.com/health-and-science/" updateInterval="10" collapsed="true"/>
