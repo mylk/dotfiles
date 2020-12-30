@@ -20,3 +20,4 @@ source /usr/share/git/completion/git-completion.bash
 
 export PATH=$PATH:/home/mylk/projects/tools/:$HOME/.symfony/bin/:$HOME/.config/composer/vendor/bin/
 export VISUAL="vim"
+export HISTCONTROL=ignorespace
