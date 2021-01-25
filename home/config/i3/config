@@ -107,6 +107,7 @@ bindsym $mod+Ctrl+l exec i3lock --color 000000
 bindsym $mod+Prior exec amixer set Master 5%+ unmute
 bindsym $mod+Next exec amixer set Master 5%-
 bindsym $mod+End exec amixer set Master toggle
+bindsym $mod+Insert exec amixer set Capture toggle
 
 # inverse screen colors
 bindsym $mod+i exec xcalib -i -a
