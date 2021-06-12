@@ -137,6 +137,3 @@ hide_edge_borders both
 # hide window borders
 new_window pixel 0
 
-# force applications to float mode only
-for_window [instance="gedit"] floating enable, border normal
-
