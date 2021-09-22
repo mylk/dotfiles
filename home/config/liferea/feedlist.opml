@@ -98,9 +98,7 @@
       <outline title="r/Programming" text="r/Programming" description="r/Programming" type="atom" id="yhgniie" sortColumn="time" xmlUrl="https://www.reddit.com/r/programming/new/.rss" htmlUrl="https://www.reddit.com/r/programming/new/" updateInterval="-1" markAsRead="true" collapsed="true"/>
       <outline title="r/PHP" text="r/PHP" description="r/PHP" type="atom" id="pncxkpb" sortColumn="time" xmlUrl="https://www.reddit.com/r/PHP/new/.rss" htmlUrl="https://www.reddit.com/r/PHP/new/" updateInterval="-1" markAsRead="true" collapsed="true"/>
       <outline title="r/Symfony" text="r/Symfony" description="r/Symfony" type="atom" id="rfhmqch" sortColumn="time" xmlUrl="https://www.reddit.com/r/symfony/new/.rss" htmlUrl="https://www.reddit.com/r/symfony/new/" updateInterval="-1" markAsRead="true" collapsed="true"/>
-      <outline title="Spring Engineering" text="Spring Engineering" description="Spring Engineering" type="atom" id="qhjeopk" sortColumn="time" xmlUrl="https://spring.io/blog/category/engineering.atom" htmlUrl="https://spring.io/blog/category/engineering.atom" updateInterval="-1" markAsRead="true" collapsed="true"/>
-      <outline title="Baeldung" text="Baeldung" description="Baeldung" type="rss" id="lqqdtxx" sortColumn="time" xmlUrl="http://feeds.feedburner.com/Baeldung" htmlUrl="https://www.baeldung.com" updateInterval="-1" markAsRead="true" collapsed="true"/>
-    </outline>
+      </outline>
     <outline title="Jobs" text="Jobs" description="Jobs" type="folder" id="rjsbdvy" sortColumn="time" collapsed="true">
       <outline title="Stack Overflow" text="Stack Overflow" description="Stack Overflow" type="rss" id="bjdipgh" sortColumn="time" xmlUrl="https://stackoverflow.com/jobs/feed?location=athens&amp;range=20&amp;distanceUnits=Miles" htmlUrl="https://stackoverflow.com/jobs" updateInterval="-1" markAsRead="true" collapsed="true"/>
       <outline title="FreeStuff.gr" text="FreeStuff.gr" description="FreeStuff.gr" type="rss" id="updrppj" sortColumn="time" xmlUrl="http://jobs.freestuff.gr/rss/developers/" htmlUrl="http://jobs.freestuff.gr/" updateInterval="-1" markAsRead="true" collapsed="true"/>
