@@ -11,7 +11,7 @@ alias mocp='mocp -T /usr/share/moc/themes/hacker_theme'
 alias cal='cal -m'
 alias date='date "+%Y-%m-%d %H:%M:%S"'
 
-PS1='[\u@\h \W]\$ '
+PS1='\u@\h:\W\$ '
 
 complete -cf sudo
 complete -cf man
