@@ -2,7 +2,7 @@
 set $mod Mod4
 
 # font for window titles and bar unless a different font is used in the bar {} block.
-font pango:monospace 8
+font pango:monospace 5
 
 # use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -20,7 +20,7 @@ bindsym $mod+Return exec terminator
 bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec dmenu_run
+bindsym $mod+d exec dmenu_run -fn 'monospace:normal:pixelsize=12'
 
 # change focus
 bindsym $mod+j focus left
