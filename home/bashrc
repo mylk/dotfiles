@@ -18,7 +18,9 @@ complete -cf man
 
 source /usr/share/git/completion/git-completion.bash
 
-export PATH=$PATH:$HOME/projects/tools/:$HOME/projects/coinmon.py/:$HOME/projects/termrea/termrea/:$HOME/.symfony/bin/:$HOME/.config/composer/vendor/bin/:$HOME/.gem/ruby/3.0.0/bin/
+export PATH=$PATH:$HOME/projects/tools/:$HOME/projects/coinmon.py/:$HOME/projects/termrea/termrea/:$HOME/.symfony/bin/:$HOME/.config/composer/vendor/bin/:$HOME/.gem/ruby/3.0.0/bin/:$HOME/projects/go/bin
 export VISUAL="vim"
 export EDITOR="vim"
 export HISTCONTROL=ignoreboth
+export GOPATH=$HOME/projects/go
+export GOBIN=$HOME/projects/go/bin
