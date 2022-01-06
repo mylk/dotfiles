@@ -37,7 +37,6 @@
       <outline title="r/NetSec" text="r/NetSec" description="r/NetSec" type="atom" id="ehpwxtr" sortColumn="time" xmlUrl="https://www.reddit.com/r/netsec/new/.rss" htmlUrl="https://www.reddit.com/r/netsec/new/" updateInterval="-1" collapsed="true"/>
       <outline title="sploit.tech" text="sploit.tech" description="sploit.tech" type="atom" id="gtmbmge" sortColumn="time" xmlUrl="http://sploit.tech/feed.xml" htmlUrl="http://sploit.tech/" updateInterval="-1" collapsed="true"/>
       <outline title="ZDNet" text="ZDNet" description="ZDNet" type="rss" id="rnwcsfr" sortColumn="time" xmlUrl="https://www.zdnet.com/topic/security/rss.xml" htmlUrl="https://www.zdnet.com/" updateInterval="-1" collapsed="true"/>
-      <outline title="SecNews" text="SecNews" description="SecNews" type="rss" id="psjifup" sortColumn="time" xmlUrl="https://www.secnews.gr/feed/" htmlUrl="https://www.secnews.gr" updateInterval="-1" collapsed="true"/>
       <outline title="Restore Privacy" text="Restore Privacy" description="Restore Privacy" type="rss" id="lgcbhjt" sortColumn="time" xmlUrl="https://restoreprivacy.com/feed/" htmlUrl="https://restoreprivacy.com" updateInterval="-1" collapsed="true"/>
       <outline title="Hackers Arise" text="Hackers Arise" description="Hackers Arise" type="rss" id="zayjuxv" sortColumn="time" xmlUrl="https://www.hackers-arise.com/blog-feed.xml" htmlUrl="https://www.hackers-arise.com/blog" updateInterval="-1" collapsed="true"/>
     </outline>
