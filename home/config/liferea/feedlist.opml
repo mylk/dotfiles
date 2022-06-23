@@ -67,6 +67,7 @@
       <outline title="Transifex" text="Transifex" description="Transifex" type="rss" id="imlvajy" sortColumn="time" xmlUrl="https://www.transifex.com/blog/feed/" htmlUrl="https://www.transifex.com" updateInterval="-1" collapsed="true"/>
       <outline title="Beat" text="Beat" description="Beat" type="rss" id="otyiwhk" sortColumn="time" xmlUrl="https://build.thebeat.co/feed" htmlUrl="https://build.thebeat.co?source=rss----285296b3c701---4" updateInterval="-1" collapsed="true"/>
       <outline title="Pressidium" text="Pressidium" description="Pressidium" type="rss" id="zogfgbw" sortColumn="time" xmlUrl="https://pressidium.com/blog/feed" htmlUrl="https://pressidium.com/blog/" updateInterval="-1" collapsed="true"/>
+      <outline title="PHP Annotated" text="PHP Annotated" description="PHP Annotated" type="rss" id="noxzchj" sortColumn="time" xmlUrl="https://blog.jetbrains.com/phpstorm/tag/php-annotated-monthly/feed/" htmlUrl="https://blog.jetbrains.com" updateInterval="-1" collapsed="true"/>
     </outline>
     <outline title="Vlogs" text="Vlogs" description="Vlogs" type="folder" id="llgbxoa" sortColumn="time" collapsed="true">
       <outline title="Kathimerini Fisiki" text="Kathimerini Fisiki" description="Kathimerini Fisiki" type="atom" id="araqfyp" sortColumn="time" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQXxfC5_Wvlx-eywB9EmaMw" htmlUrl="https://www.youtube.com/channel/UCQXxfC5_Wvlx-eywB9EmaMw" updateInterval="-1" collapsed="true"/>
