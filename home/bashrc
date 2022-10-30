@@ -10,6 +10,7 @@ alias grep='grep --color'
 alias mocp='mocp -T /usr/share/moc/themes/hacker_theme'
 alias cal='cal -m'
 alias date='date "+%Y-%m-%d %H:%M:%S"'
+alias mplayer='mplayer -af scaletempo'
 
 PS1='\u@\h:\W\$ '
 
