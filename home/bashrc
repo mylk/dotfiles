@@ -12,6 +12,8 @@ alias cal='cal -m'
 alias date='date "+%Y-%m-%d %H:%M:%S"'
 alias mplayer='mplayer -af scaletempo'
 
+git() { if [[ $@ == "branch" ]]; then command git branch --sort=-committerdate | tac; else command git "$@"; fi; }
+
 PS1='\u@\h:\W\$ '
 
 complete -cf sudo
