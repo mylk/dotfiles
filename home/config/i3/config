@@ -121,6 +121,9 @@ bindsym Print exec scrot -e 'mv $f /tmp/ && gimp /tmp/$f'
 # take a screenshot of the focused window
 bindsym $mod+Print exec scrot -u -e 'mv $f /tmp/ && gimp /tmp/$f'
 
+# move workspaces between screens
+bindsym $mod+Shift+p move workspace to output right
+
 # change the brightness
 # this is the script and the permissions change needed:
 # https://stackoverflow.com/a/39230095
