@@ -11,6 +11,7 @@ alias mocp='mocp -T /usr/share/moc/themes/hacker_theme'
 alias cal='cal -m'
 alias date='date "+%Y-%m-%d %H:%M:%S"'
 alias mplayer='mplayer -af scaletempo'
+alias rm='rm -i'
 
 git() { if [[ $@ == "branch" ]]; then command git branch --sort=-committerdate | tac; else command git "$@"; fi; }
 
