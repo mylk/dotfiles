@@ -103,6 +103,9 @@ bar {
 # lock the screen
 bindsym $mod+Ctrl+l exec i3lock --color 000000
 
+# lock the screen and suspend
+bindsym $mod+Shift+Ctrl+l exec i3lock --color 000000 && systemctl suspend
+
 # change the sound volume (with page up / down)
 bindsym $mod+Prior exec amixer set Master 5%+ unmute
 bindsym $mod+Next exec amixer set Master 5%-
